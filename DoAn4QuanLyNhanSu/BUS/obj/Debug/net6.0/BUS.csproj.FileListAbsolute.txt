@@ -1,0 +1,17 @@
+F:\DoAn4\DoAn4QuanLyNhanSu\BUS\obj\Debug\net6.0\BUS.csproj.AssemblyReference.cache
+F:\DoAn4\DoAn4QuanLyNhanSu\BUS\obj\Debug\net6.0\BUS.GeneratedMSBuildEditorConfig.editorconfig
+F:\DoAn4\DoAn4QuanLyNhanSu\BUS\obj\Debug\net6.0\BUS.AssemblyInfoInputs.cache
+F:\DoAn4\DoAn4QuanLyNhanSu\BUS\obj\Debug\net6.0\BUS.AssemblyInfo.cs
+F:\DoAn4\DoAn4QuanLyNhanSu\BUS\obj\Debug\net6.0\BUS.csproj.CoreCompileInputs.cache
+F:\DoAn4\DoAn4QuanLyNhanSu\BUS\bin\Debug\net6.0\BUS.deps.json
+F:\DoAn4\DoAn4QuanLyNhanSu\BUS\bin\Debug\net6.0\BUS.dll
+F:\DoAn4\DoAn4QuanLyNhanSu\BUS\bin\Debug\net6.0\BUS.pdb
+F:\DoAn4\DoAn4QuanLyNhanSu\BUS\bin\Debug\net6.0\DAL.dll
+F:\DoAn4\DoAn4QuanLyNhanSu\BUS\bin\Debug\net6.0\DataModel.dll
+F:\DoAn4\DoAn4QuanLyNhanSu\BUS\bin\Debug\net6.0\DAL.pdb
+F:\DoAn4\DoAn4QuanLyNhanSu\BUS\bin\Debug\net6.0\DataModel.pdb
+F:\DoAn4\DoAn4QuanLyNhanSu\BUS\obj\Debug\net6.0\BUS.csproj.CopyComplete
+F:\DoAn4\DoAn4QuanLyNhanSu\BUS\obj\Debug\net6.0\BUS.dll
+F:\DoAn4\DoAn4QuanLyNhanSu\BUS\obj\Debug\net6.0\refint\BUS.dll
+F:\DoAn4\DoAn4QuanLyNhanSu\BUS\obj\Debug\net6.0\BUS.pdb
+F:\DoAn4\DoAn4QuanLyNhanSu\BUS\obj\Debug\net6.0\ref\BUS.dll

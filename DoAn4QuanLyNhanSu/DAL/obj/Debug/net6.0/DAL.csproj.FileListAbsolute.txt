@@ -1,0 +1,15 @@
+F:\DoAn4\DoAn4QuanLyNhanSu\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+F:\DoAn4\DoAn4QuanLyNhanSu\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\DoAn4\DoAn4QuanLyNhanSu\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+F:\DoAn4\DoAn4QuanLyNhanSu\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+F:\DoAn4\DoAn4QuanLyNhanSu\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+F:\DoAn4\DoAn4QuanLyNhanSu\DAL\bin\Debug\net6.0\DAL.deps.json
+F:\DoAn4\DoAn4QuanLyNhanSu\DAL\bin\Debug\net6.0\DAL.dll
+F:\DoAn4\DoAn4QuanLyNhanSu\DAL\bin\Debug\net6.0\DAL.pdb
+F:\DoAn4\DoAn4QuanLyNhanSu\DAL\bin\Debug\net6.0\DataModel.dll
+F:\DoAn4\DoAn4QuanLyNhanSu\DAL\bin\Debug\net6.0\DataModel.pdb
+F:\DoAn4\DoAn4QuanLyNhanSu\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+F:\DoAn4\DoAn4QuanLyNhanSu\DAL\obj\Debug\net6.0\DAL.dll
+F:\DoAn4\DoAn4QuanLyNhanSu\DAL\obj\Debug\net6.0\refint\DAL.dll
+F:\DoAn4\DoAn4QuanLyNhanSu\DAL\obj\Debug\net6.0\DAL.pdb
+F:\DoAn4\DoAn4QuanLyNhanSu\DAL\obj\Debug\net6.0\ref\DAL.dll
